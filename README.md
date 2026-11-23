@@ -1,10 +1,14 @@
 # ReservaYa
 
+[![CI](https://github.com/SantiagoFernandez346/reservaya/actions/workflows/ci.yml/badge.svg)](https://github.com/SantiagoFernandez346/reservaya/actions/workflows/ci.yml)
+
 Plataforma de turnos online para profesionales: el cliente elige día y hora, deja una seña con Mercado Pago y el turno queda confirmado en su cuenta y en la agenda del profesional. Incluye un asistente con IA que entiende pedidos como *"quiero un turno el jueves a la tarde"*.
 
 > Proyecto de portfolio. Los pagos son de prueba: no se cobra nada.
 
 ## Probalo
+
+**Demo en vivo: https://reservaya-five.vercel.app**
 
 Cuentas demo (contraseña `demo1234`), también disponibles con un clic en la pantalla de ingreso:
 
